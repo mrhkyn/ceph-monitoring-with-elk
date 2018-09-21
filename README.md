@@ -5,7 +5,7 @@ This project is using the <b>ELK (ElasticSearch, Logstash, Kibana)' stack and Gr
 ## Monitoring metrics
 
 * CEPH Overview
-    * # of Monitors, OSD up/down, OSD in/out
+    * Number of Monitors, OSD up/down, OSD in/out
     * Cluster IOPS/Throughput
     * RADOS benchmark latency for osd and hdd pools
     * OSD disk apply/commit latency 
